@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "route_helpers.h": "c",
+        "sql.h": "c",
+        "cstdio": "c",
+        "gamestate.h": "c",
+        "parsing.h": "c",
+        "types.h": "c"
+    }
+}
